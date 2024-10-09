@@ -50,7 +50,7 @@ int main()
         }
     }
     cout << endl;
-    cout << "Нчетные эл-ты: ";
+    cout << "Нечетные эл-ты: ";
     for (size_t i = 0; i < size(arr); i++)
     {
         for (size_t j = 0; j < size(arr); j++)
